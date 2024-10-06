@@ -4,10 +4,11 @@
 I'm a software developer with a passion for creating impactful applications. I love working with Python, JavaScript, and React.
 
 ## 💻 Skills
-![HTML](https://www.w3.org/html/)
-![CSS](https://img.shields.io/badge/CSS-100000?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=flat&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=3776AB)
+## 💻 Skills
+[![HTML](https://path-to-your-icon/html-icon.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://path-to-your-icon/css-icon.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://path-to-your-icon/js-icon.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://path-to-your-icon/python-icon.png)](https://www.python.org/)
 ![Dart](https://img.shields.io/badge/Dart-100000?style=flat&logo=dart&logoColor=00BFFF)
 ![Linux](https://img.shields.io/badge/Linux-100000?style=flat&logo=linux&logoColor=FCC624)
 ![Java](https://img.shields.io/badge/Java-100000?style=flat&logo=java&logoColor=007396)
