@@ -27,8 +27,7 @@ I'm a software developer and an eager, dedicated Computer Science Engineering st
 -->
 
 ## ⚙️ Technologies & Tools
-- **Version Control:** Git
-<!--- **CI/CD:** GitHub Actions, Travis CI -->
+- **Version Control:** Git  <!--- **CI/CD:** GitHub Actions, Travis CI -->
 - **Databases:** PostgreSQL, MongoDB
 - **Cloud Services:** AWS, Firebase
 
