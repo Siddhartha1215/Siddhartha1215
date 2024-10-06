@@ -4,7 +4,7 @@
 I'm a software developer with a passion for creating impactful applications. I love working with Python, JavaScript, and React.
 
 ## 💻 Skills
-![HTML](https://img.shields.io/badge/HTML-100000?style=flat&logo=html5&logoColor=E44D26)
+![HTML](https://www.w3.org/html/)
 ![CSS](https://img.shields.io/badge/CSS-100000?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=3776AB)
