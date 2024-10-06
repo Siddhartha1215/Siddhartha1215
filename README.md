@@ -3,7 +3,12 @@
 ## 🌱 About Me
 I'm a software developer with a passion for creating impactful applications. I love working with Python, JavaScript, and React.
 
-## 💻 Skills
+## 🌍 Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/bhargava-siddhartha-9a0aa1292/)
+[![Instagram](https://img.shields.io/badge/Instagram-100000?style=flat&logo=instagram&logoColor=E1306C)](https://instagram.com/_bhargava_siddhartha_)
+[![X](https://img.shields.io/badge/X-100000?style=flat&logo=x&logoColor=1DA1F2)](https://x.com/siddhartha1215)
+[![Discord](https://img.shields.io/badge/Discord-100000?style=flat&logo=discord&logoColor=7289DA)](https://discord.com/users/siddhartha1215)
+
 ## 💻 Skills
 ![HTML](https://img.shields.io/badge/HTML-100000?style=flat&logo=html5&logoColor=E44D26)
 ![CSS](https://img.shields.io/badge/CSS-100000?style=flat&logo=css3&logoColor=1572B6)
