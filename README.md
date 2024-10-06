@@ -4,11 +4,12 @@
 I'm a software developer with a passion for creating impactful applications. I love working with Python, JavaScript, and React.
 
 ## 💻 Skills
-- Python
-- JavaScript
-- React
-- Node.js
-- SQL
+![HTML](https://img.shields.io/badge/HTML-100000?style=flat&logo=html5&logoColor=E44D26)
+![CSS](https://img.shields.io/badge/CSS-100000?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=3776AB)
+![React](https://img.shields.io/badge/React-100000?style=flat&logo=react&logoColor=61DAFB)
+
 <!--
 ## 📈 Projects
 - [Project One](https://github.com/username/project-one): A brief description of your project.
