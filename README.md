@@ -1,7 +1,7 @@
 # Hi there, I'm Siddhartha 👋
 
 ## 🌱 About Me
-I'm a software developer with a passion for creating impactful applications. I love working with Python, JavaScript, and React.
+I'm a software developer and an eager, dedicated Computer Science Engineering student specializing in Artificial Intelligence. I’m seeking opportunities to apply my theoretical knowledge in practical settings. I love working with Python and I'm passionate about contributing to innovative projects and gaining hands-on experience.
 
 ## 🌍 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/bhargava-siddhartha-9a0aa1292/)
@@ -18,26 +18,36 @@ I'm a software developer with a passion for creating impactful applications. I l
 ![Linux](https://img.shields.io/badge/Linux-100000?style=flat&logo=linux&logoColor=FCC624)
 ![Java](https://img.shields.io/badge/Java-100000?style=flat&logo=java&logoColor=007396)
 ![Flutter](https://img.shields.io/badge/Flutter-100000?style=flat&logo=flutter&logoColor=02569B)
-<!--
-## 📈 Projects
-- [Project One](https://github.com/username/project-one): A brief description of your project.
-- [Project Two](https://github.com/username/project-two): Another brief description.
-
-## 📫 Contact
-- Email: siddhartha120105@gmail.com
-<!--- Twitter: [@your_twitter](https://twitter.com/your_twitter) -->
+![C](https://img.shields.io/badge/C-100000?style=flat&logo=c&logoColor=A8B400)
 
 <!--
-**Siddhartha1215/siddhartha1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌟 Projects
+- [Project 1](https://github.com/username/project1): A brief description of what this project does.
+- [Project 2](https://github.com/username/project2): A brief description of what this project does.
 -->
+
+## ⚙️ Technologies & Tools
+- **Version Control:** Git
+<!--- **CI/CD:** GitHub Actions, Travis CI -->
+- **Databases:** PostgreSQL, MongoDB
+- **Cloud Services:** AWS, Firebase
+
+<!--
+## 📝 Blog Posts
+- [Understanding Python Decorators](https://yourblog.com/understanding-python-decorators)
+- [Building a React App from Scratch](https://yourblog.com/building-a-react-app) 
+-->
+
+## 🤔 Fun Facts
+- I love hiking and exploring nature on weekends.
+- I enjoy traveling on a destinyless journey, embracing the adventures along the way.
+- My favorite programming language is Python.
+- I'm an avid gamer and enjoy games.
+
+## 📊 GitHub Stats
+![Siddhartha1215's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhartha1215&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha1215&layout=compact&theme=radical)
+![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddhartha1215&theme=radical)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Siddhartha1215&theme=radical&no-frame=true&margin-w=15)
