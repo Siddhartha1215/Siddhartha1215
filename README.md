@@ -8,8 +8,10 @@ I'm a software developer with a passion for creating impactful applications. I l
 ![CSS](https://img.shields.io/badge/CSS-100000?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=3776AB)
-![React](https://img.shields.io/badge/React-100000?style=flat&logo=react&logoColor=61DAFB)
-
+![Dart](https://img.shields.io/badge/Dart-100000?style=flat&logo=dart&logoColor=00BFFF)
+![Linux](https://img.shields.io/badge/Linux-100000?style=flat&logo=linux&logoColor=FCC624)
+![Java](https://img.shields.io/badge/Java-100000?style=flat&logo=java&logoColor=007396)
+![Flutter](https://img.shields.io/badge/Flutter-100000?style=flat&logo=flutter&logoColor=02569B)
 <!--
 ## 📈 Projects
 - [Project One](https://github.com/username/project-one): A brief description of your project.
