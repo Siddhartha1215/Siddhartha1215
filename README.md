@@ -45,7 +45,9 @@ I'm a software developer and an eager, dedicated Computer Science Engineering st
 
 ## 📊 GitHub Stats
 ![Siddhartha1215's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhartha1215&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha1215&layout=compact&theme=radical)
+
 ![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddhartha1215&theme=radical)
 
 ## 🏆 GitHub Trophies
