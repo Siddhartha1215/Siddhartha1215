@@ -38,7 +38,7 @@ I'm a software developer and an eager, dedicated Computer Science Engineering st
 -->
 
 ## 🤔 Fun Facts
-- I love hiking and exploring nature on weekends.
+- I love hiking and exploring nature on weekend.
 - I enjoy traveling on a destinyless journey, embracing the adventures along the way.
 - My favorite programming language is Python.
 - I'm an avid gamer and enjoy games.
