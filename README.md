@@ -1,7 +1,7 @@
-# Hi there, I'm Siddhartha 👋
+# Hi there, I'm Siddhartha. 👋
 
 ## 🌱 About Me
-I'm a software developer and an eager, dedicated Computer Science Engineering student specializing in Artificial Intelligence. I’m seeking opportunities to apply my theoretical knowledge in practical settings. I love working with Python and I'm passionate about contributing to innovative projects and gaining hands-on experience.
+I'm a software developer and an eager, dedicated Computer Science Engineering student specializing in Artificial Intelligence. I’m seeking opportunities to apply my theoretical knowledge in practical settings. I love working with Python, and I'm passionate about contributing to innovative projects and gaining hands-on experience.
 
 ## 🌍 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/bhargava-siddhartha-9a0aa1292/)
@@ -39,7 +39,7 @@ I'm a software developer and an eager, dedicated Computer Science Engineering st
 
 ## 🤔 Fun Facts
 - I love hiking and exploring nature on weekends.
-- I enjoy traveling on a destinyless journey, embracing the adventures along the way.
+- I enjoy traveling on a destinyless journey and embracing adventures.
 - My favorite programming language is Python.
 - I'm an avid gamer and enjoy games.
 
